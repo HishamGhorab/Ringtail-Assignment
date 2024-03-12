@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/ColourPicker.uss?fileID=7433441132597879392&amp;guid=2af69254d167fb44abdc608f3cc5dbca&amp;type=3#ColourPicker" />
+    <ui:VisualElement class="ValueContainer" style="flex-grow: 0; background-color: rgba(0, 0, 0, 0); padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; width: 50px;">
+        <ui:Label tabindex="-1" text="000" display-tooltip-when-elided="true" name="Label" class="RoundedCornerRect" style="-unity-text-align: upper-center;" />
+        <ui:Label tabindex="-1" text="A" display-tooltip-when-elided="true" style="-unity-text-align: upper-center;" />
+    </ui:VisualElement>
+</ui:UXML>
